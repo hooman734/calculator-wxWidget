@@ -1,0 +1,5 @@
+**/cmake-build-debug/**
+.vscode
+.idea
+**/External\ Libraries
+build/**
