@@ -9,3 +9,4 @@
 
 ### Some Screenshots:
 
+![screenshot](./screenshots/calculator_linux.png)
